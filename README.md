@@ -1,6 +1,6 @@
 <div align="center">
 
-![Project VisionFlow Banner](https://placehold.co/1200x400/16a085/FFFFFF/png?text=Project%20VisionFlow)
+![Project VisionFlow Banner](https://i.ibb.co/rRTBtbGJ/Gemini-Generated-Image-qeqvgsqeqvgsqeqv.png)
 
 # 🚦 Project VisionFlow: The AI-Powered Urban Traffic Intelligence Platform
 
@@ -13,10 +13,10 @@
 ---
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Status-Live%20Prototype-brightgreen?style=for-the-badge" alt="Status"></a>
-  <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react" alt="React"></a>
-  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" alt="TypeScript"></a>
-  <a href="#"><img src="https://img.shields.io/badge/AI-Gemini%20API-4A8CF7?style=for-the-badge&logo=google-gemini" alt="Gemini API"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Status-Live%20Prototype-brightgreen?style=for-the-badge" alt="Status"></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react" alt="React"></a>
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" alt="TypeScript"></a>
+  <a href="#"><img src="https://img.shields.io/badge/AI-Gemini%20API-4A8CF7?style=for-the-badge&logo=google-gemini" alt="Gemini API"></a>
 </p>
 
 </div>
@@ -31,9 +31,9 @@ Effective urban governance and planning are critically dependent on understandin
 
 Project VisionFlow is architected as an accessible, client-side **AI analysis pipeline** that turns any camera into an intelligent traffic sensor. The architecture is designed for modern web environments:
 
-1.  **Flexible Video Ingestion:** A React-based interface allows users to seamlessly provide a video source, either through a local file upload or by granting access to a live webcam feed.
-2.  **Gemini API Integration Layer:** The core of the system. Video frames are periodically sent to the **Google Gemini API**, which performs a suite of multi-modal tasks on each image: object detection and classification (vehicles), scene description, congestion level estimation, and anomaly detection.
-3.  **Interactive Data Visualization Dashboard:** The structured JSON data returned by the API is immediately processed and rendered in an intuitive dashboard built with React and Recharts. This provides decision-makers with real-time charts, statistics, and alerts, transforming raw visual data into actionable intelligence.
+1.  **Flexible Video Ingestion:** A React-based interface allows users to seamlessly provide a video source, either through a local file upload or by granting access to a live webcam feed.
+2.  **Gemini API Integration Layer:** The core of the system. Video frames are periodically sent to the **Google Gemini API**, which performs a suite of multi-modal tasks on each image: object detection and classification (vehicles), scene description, congestion level estimation, and anomaly detection.
+3.  **Interactive Data Visualization Dashboard:** The structured JSON data returned by the API is immediately processed and rendered in an intuitive dashboard built with React and Recharts. This provides decision-makers with real-time charts, statistics, and alerts, transforming raw visual data into actionable intelligence.
 
 > This architecture democratizes advanced traffic analysis, making it affordable and accessible to any municipality or research body.
 
@@ -65,11 +65,18 @@ Project VisionFlow is architected as an accessible, client-side **AI analysis pi
 
 ### 🖼️ Visual Demo
 
-*(A dynamic GIF is essential. It should show the user uploading a video of a busy intersection, followed by the dashboard coming to life: bounding boxes appearing on vehicles, the congestion gauge changing, and charts populating with data.)*
-
 <div align="center">
 
-![Animation of the VisionFlow Analyzer dashboard processing a traffic video.](https://placehold.co/800x450/16a085/FFFFFF/gif?text=Live%20Traffic%20Analysis%20Demo)
+<a href="https://ibb.co/RngHHwx"><img src="https://i.ibb.co/GwdPPSK/Screenshot-864.png" alt="Screenshot-864" border="0"></a>
+<a href="https://ibb.co/wZ2QJz1V"><img src="https://i.ibb.co/V0kCHq8R/Screenshot-865.png" alt="Screenshot-865" border="0"></a>
+<a href="https://ibb.co/fdFq5qnt"><img src="https://i.ibb.co/v4qVGVQm/Screenshot-866.png" alt="Screenshot-866" border="0"></a>
+<a href="https://ibb.co/fzht6sY4"><img src="https://i.ibb.co/Xrhp0qZS/Screenshot-867.png" alt="Screenshot-867" border="0"></a>
+<a href="https://ibb.co/cSKP9491"><img src="https://i.ibb.co/0RpkLHLc/Screenshot-868.png" alt="Screenshot-868" border="0"></a>
+<a href="https://ibb.co/qPQ0M9K"><img src="https://i.ibb.co/p9FWvZc/Screenshot-869.png" alt="Screenshot-869" border="0"></a>
+<a href="https://ibb.co/FLpVSQMy"><img src="https://i.ibb.co/NdRS80PJ/Screenshot-870.png" alt="Screenshot-870" border="0"></a>
+<a href="https://ibb.co/NnsZtcGC"><img src="https://i.ibb.co/XkbSjcGL/Screenshot-871.png" alt="Screenshot-871" border="0"></a>
+<a href="https://ibb.co/gNYBZJr"><img src="https://i.ibb.co/H6ZkTqK/Screenshot-872.png" alt="Screenshot-872" border="0"></a>
+<a href="https://ibb.co/Jjc2YkbY"><img src="https://i.ibb.co/s9gQT3DT/Screenshot-873.png" alt="Screenshot-873" border="0"></a>
 
 </div>
 
@@ -87,3 +94,4 @@ VisionFlow provides city planners, traffic management authorities, and emergency
 
 #### **National Infrastructure & Economic Planning**
 On a larger scale, this tool can be used to assess the performance of the national road network, analyze the impact of new highways, and provide logistics and transport companies with intelligence to optimize routes. This contributes directly to national economic efficiency and supply chain resilience.
+```
